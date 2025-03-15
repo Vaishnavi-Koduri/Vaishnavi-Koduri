@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sri Vaishnavi Koduri</h1>
+
 <h3 align="center">A passionate programmer.</h3>
 
 - 🔭 I’m currently working on **building efficent codes**
 
-- 🌱 I’m currently learning **MongoDB, Azure, Full Stack**
+- 🌱 I’m currently learning **Azure, Full Stack**
 
-- 👯 My primary coding languages: **Python, C++**
+- 👯 My primary coding languages: **Python, C++, C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
